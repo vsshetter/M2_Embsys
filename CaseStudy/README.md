@@ -15,6 +15,7 @@ Over speeding vehicle make lot of problems sometimes also leading to loss of liv
 * Microcontroller : This is the cpu of our project.We are going to use a microcontroller of 8051 family.
 * LCD : The speed of the vehicle and the limits are displayed on an LCD. 
 * Push Buttons :The speed of the vehicle can be incremented / decremented manually with the help of push buttons.
+* Dc motor is considerd as engine here.
 
 
 
@@ -28,4 +29,9 @@ Over speeding vehicle make lot of problems sometimes also leading to loss of liv
 ![ID_3](https://user-images.githubusercontent.com/46949062/154904441-e8700364-63ee-4fc9-9ad4-7e6364b261b6.jpg)
 # High level Requirements
 ![hlr_2](https://user-images.githubusercontent.com/46949062/154938054-a8fdacad-361f-4d43-b833-08121d3c8fcf.jpg)
+
+# Working
+This project works with RF communication between the speed sign post and the vehicle controller system. A motor is used here to depict as a vehicle. Whenever a vehicle comes in range of the RF speed sign post, the sign post transmits the speed limit for that particular road to the vehicle system. The vehicle controller system receives this signal through RF receiver and further perceived by the microcontroller. The speed of the vehicle can be incremented / decremented manually with the help of push buttons. If the system was at lower speed than the limit received from the sign post than there will be no changes made to the speed of the system. However, if the speed of the vehicle was manually incremented to a higher value, then the controller will impose the speed restriction and bring back the speed value to the value specified by the limit. Now if the user tries to increase the speed, the system does not allows it to do so till it is in range of the RF speed sign post. The speed of the vehicle and the limits are displayed on an LCD. Thus this system greatly helps in curbing the speed of over speeding vehicles ensuring safety of vehicles on accident prone road ways.
+
+
 
