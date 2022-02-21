@@ -20,9 +20,10 @@ Over speeding vehicle make lot of problems sometimes also leading to loss of liv
 
 
 # Block Diagram
-*![transmiter](https://user-images.githubusercontent.com/46949062/154929820-16375543-5a05-4361-a3ba-55026ac05bda.jpg)
+# Transmitter
 
-*
+# Reciever
+*![transmiter](https://user-images.githubusercontent.com/46949062/154929820-16375543-5a05-4361-a3ba-55026ac05bda.jpg)
 
 
 # Low Level Requirements
