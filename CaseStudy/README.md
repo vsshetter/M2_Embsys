@@ -20,7 +20,7 @@ Over speeding vehicle make lot of problems sometimes also leading to loss of liv
 
 
 # Block Diagram
-* ![Vehicle-Speed-Limit-Controller-Project-Block-Tx](https://user-images.githubusercontent.com/46949062/154899590-e742b318-d6be-4b00-9ed1-62f456f16811.png)
+*
 * ![Vehicle-Speed-Limit-Controller-Project-Block-Rx](https://user-images.githubusercontent.com/46949062/154899789-d4d1573f-95cc-47ec-97e7-86f227c3e77a.png)
 
 
