@@ -52,6 +52,7 @@ This system thus allows to measure amount of alcohol and then display percentage
 * Atmega Microcontroller :The Atmel 8-bit AVR RISC-based microcontroller combines 32 KB ISP flash memory with read-while-write capabilities, 1 KB EEPROM, 2 KB SRAM, 23 general-purpose I/O lines, 32 general-purpose working registers, 3 flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter.
 * Buzzer : The vibrating disk in a magnetic buzzer is attracted to the pole by the magnetic field. When an oscillating signal is moved through the coil, it produces a fluctuating magnetic field which vibrates the disk at a frequency equal to that of the drive signal.
 # Block Diagram
-
 ![Block](https://user-images.githubusercontent.com/46949062/155168869-85a94614-3a51-4e1c-869a-a804b3e3de3b.jpg)
 # Low Level Requirements
+![newblock](https://user-images.githubusercontent.com/46949062/155172657-d793ac82-9504-4f78-8a57-237ff3beaa5d.jpg)
+
