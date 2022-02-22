@@ -42,3 +42,9 @@ Over speeding vehicle make lot of problems sometimes also leading to loss of liv
 # Introduction
 An alcohol sensing system that measures alcohol intake, displays percentage of alcohol and also sounds an alarm if it is above a particular threshold. Here we use an alcohol sensor circuit along with lcd display and a buzzer alarm.
 This system thus allows to measure amount of alcohol and then display percentage of alcohol measured. Also a alarm is sounded that indicates that measured alcohol is above a particular percentage.
+# Components
+* Hardware : MQ3 Alcohol Ethanol Sensor,Crystal Oscillator, Atmega Microcontroller, Buzzer,Resistors,Transistors,Diodes,LED, Push Buttons,Switch.
+* Software : MC Programming Language C.
+
+# Component Description
+* MQ 3 Alcohol Ethanol Sensor : MQ3 is one of the most commonly used sensors in the MQ sensor series. It is a Metal Oxide Semiconductor (MOS) type of sensor. Metal oxide sensors are also known as Chemiresistors, because sensing is based on the change of resistance of the sensing material when exposed to alcohol. So by placing it in a simple voltage divider network, alcohol concentrations can be detected.
