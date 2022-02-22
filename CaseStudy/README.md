@@ -39,4 +39,6 @@ Over speeding vehicle make lot of problems sometimes also leading to loss of liv
 
 
 # COMPLEX LEVEL EMBEDDED SYSTEMS
-
+# Introduction
+An alcohol sensing system that measures alcohol intake, displays percentage of alcohol and also sounds an alarm if it is above a particular threshold. Here we use an alcohol sensor circuit along with lcd display and a buzzer alarm.
+This system thus allows to measure amount of alcohol and then display percentage of alcohol measured. Also a alarm is sounded that indicates that measured alcohol is above a particular percentage.
