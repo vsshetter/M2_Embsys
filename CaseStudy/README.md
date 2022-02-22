@@ -53,3 +53,4 @@ This system thus allows to measure amount of alcohol and then display percentage
 * Buzzer : The vibrating disk in a magnetic buzzer is attracted to the pole by the magnetic field. When an oscillating signal is moved through the coil, it produces a fluctuating magnetic field which vibrates the disk at a frequency equal to that of the drive signal.
 # Block Diagram
 
+![Block](https://user-images.githubusercontent.com/46949062/155168869-85a94614-3a51-4e1c-869a-a804b3e3de3b.jpg)
