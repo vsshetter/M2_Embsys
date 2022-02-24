@@ -40,7 +40,25 @@ Implemented during intial stages of vehicle manufacturing.
 * Because india is such a country where daily more road accidents are occuring to avoid this it is useful.
 # HOW
 * Vehicle Speed Limit Controller Project is a great solution to this problem as it not only provides speed limitations, it also implements it through a controlling mechanism. 
+# SWOT ANALYSIS
+# Strenghts
+* Can control vehile speed.
+* Easy to use.
+* Less human interaction.
+# Weakness
+* Not connected to internet.
+* Needs to alter speed limit and to place transmitter unit at sign board
+* Unable to monitor through the phone.
+# Oppurtunities
+* Scope of this project is huge in automotive industry.
+* Less cost.
+* System consumes less power.
+# Threats
+* If vehicle manufacter's its own speed limitor.
+* There should be best co ordination between transmitter and reciever.
+* speed breaks.
 
+|id||test||op|
 
 # Working
 * This project works with RF communication between the speed sign post and the vehicle controller system. A motor is used here to depict as a vehicle. Whenever a vehicle comes in range of the RF speed sign post, the sign post transmits the speed limit for that particular road to the vehicle system. The vehicle controller system receives this signal through RF receiver and further perceived by the microcontroller. 
