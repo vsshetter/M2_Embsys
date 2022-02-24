@@ -63,6 +63,5 @@ This system thus allows to measure amount of alcohol and then display percentage
 
 # Block Diagram
 ![Block](https://user-images.githubusercontent.com/46949062/155168869-85a94614-3a51-4e1c-869a-a804b3e3de3b.jpg)
-
 # Application
 * The main thing is that it is very much useful for our police department to avoid the accident cases.
