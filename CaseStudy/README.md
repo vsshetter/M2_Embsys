@@ -39,6 +39,9 @@ Over speeding vehicle make lot of problems sometimes also leading to loss of liv
 
 
 # COMPLEX LEVEL EMBEDDED SYSTEMS
+
+# Alcohol Sensing Display With Alarm Project
+
 # Introduction
 An alcohol sensing system that measures alcohol intake, displays percentage of alcohol and also sounds an alarm if it is above a particular threshold. Here we use an alcohol sensor circuit along with lcd display and a buzzer alarm.
 This system thus allows to measure amount of alcohol and then display percentage of alcohol measured. Also a alarm is sounded that indicates that measured alcohol is above a particular percentage.
@@ -61,4 +64,5 @@ This system thus allows to measure amount of alcohol and then display percentage
 # Block Diagram
 ![Block](https://user-images.githubusercontent.com/46949062/155168869-85a94614-3a51-4e1c-869a-a804b3e3de3b.jpg)
 
-
+# Application
+* The main thing is that it is very much useful for our police department to avoid the accident cases.
