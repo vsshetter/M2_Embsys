@@ -59,22 +59,15 @@ make a securecount over a large number of objects.
 | LLR 2.1 | Set and reset buttons are used setting the count limit | 
 | LLR 2.2 | Up and down push buttons are used incresaing or decreasing                                                                                                                       value repectively | 
 
+| Id | Low level requirements for HL3|                                                                   
+| ---------------| ---------------------|                                                                 
+| LLR 3.1 |  Object is paced when it passes the sensor , the counter is incremented by one count |                                                                               
+| LLR 3.2 | Controller  gets the signals from the sensors and these signals are stored in ROM |
 
-
-
-
-
-
-
-                                                              
-
-| Id | Low level requirements for HL3|                                                                    | Id |  Low level requirements for HL4 | 
-| ---------------| ---------------------|                                                                 | ---------------| ---------------------|
-| LLR 3.1 |  Object is paced when it passes the                                                           | LLR 4.1 | Display is driven by MAX 7219 IC |
-sensor , the counter is incremented by one count |                                                        | LLR 4.2 | Output should be error less |                               | LLR 3.2 | Controller  gets the signals from 
-the sensors and these signals are stored in ROM |
-
-
+| Id |  Low level requirements for HL4 | 
+| ---------------| ---------------------|
+| LLR 4.1 | Display is driven by MAX 7219 IC |
+| LLR 4.2 | Output should be error less |     
 
 
 
