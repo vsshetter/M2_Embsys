@@ -1,7 +1,7 @@
 # DIGITAL OBJECT COUNTER 
 # Abstract
 This Project is based on the  Digital Object Counter system using Arduino
-Nano, Ky -023 sensor,LCD dispaly,7 segment display, push button. Object  
+Nano, Ky-023 sensor,LCD dispaly,7 segment display, push button. Object  
 sensor and counteris a reliable circuit whichovertakes the role of counting 
 number of objects  in thestore. When any object is paced when it passes the 
 sensor , the counter is incremented by one and the total number of objects 
@@ -34,7 +34,7 @@ role in every branch of scientific research and industrial processes.
 # Where
 * Useful in big industries,gatherings family occasions(future scope),inport and export realted work.
 # Why
-* Useful beacuse it easily shows with help of lcd display how many objets are there at present.
+* Useful becacuse it easily shows with help of lcd display how many objets are there at present.
 # How
 * When any object is paced when it passes the 
 sensor , the counter is incremented by one and the total number of objects 
@@ -69,6 +69,23 @@ make a securecount over a large number of objects.
 | LLR 4.1 | Display is driven by MAX 7219 IC |
 | LLR 4.2 | Output should be error less |     
 
+# SWOT ANALYSIS
+# STRENGHT 
+* Less human interaction .
+* count limit is used by push buttons.
+* easy to use.
+# WEAKNESS
+* Not connected to internet.
+* Unable to monitor through the phone.
+* Deadlines.
+# OPPURTUNITIES
+* Less cost.
+* It consumes less power.
+* Scope of this system is very huge in human automation.
+# THREATS
+* System won't work if power is not there.
+* Best applications are avalible.
+* Mainatinance
 
 
 
