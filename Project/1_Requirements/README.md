@@ -41,7 +41,35 @@ sensor , the counter is incremented by one and the total number of objects
 present in the store  is displayed on LCD.Microcontroller is used here to
 make a securecount over a large number of objects.
 # High level requirements
-| id | Description|
+| id | High level requirements |
 | ------------- | ------------- |
-| 01 | Systemshould be specified toards counting the objects   |
-| 02 | #Push buttons are needded to use for set or reset  |
+| HL1 | System should be specified towards counting the objects   |
+| HL2 | Push buttons are needded to use for set or reset  |
+| HL3 | The controller and sensor must be in synchronization  | 
+| HL4 | System shall use 7 segment to dispaly the count  |
+
+# Low level requirements
+| Id | Low level requirements for HL1 |                                                                   | Id | Low level requirements for HL2 |
+| LLR 1.1 | Prompting the user to set the counter limit and count limit reach notification |              | LLR 2.1 | Set and reset buttons are used setting the count limit |
+| LLR 1.2 | Displaying the current count and showing the last count value etc |                           | LLR 2.2 | Up and down push buttons are used incresaing or decreasing                                                                                                                       value repectively | 
+
+
+| Id | Low level requirements for HL3|                                                                    | Id |  Low level requirements for HL4 |
+| LLR 3.1 |  Object is paced when it passes the                                                           | LLR 4.1 | Display is driven by MAX 7219 IC |
+sensor , the counter is incremented by one count |                                                        | LLR 4.2 | Output should be error less |                               | LLR 3.2 | Controller  gets the signals from 
+the sensors and these signals are stored in ROM |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
