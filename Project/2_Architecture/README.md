@@ -35,6 +35,8 @@ Helps in movement of objects towards sensor.
 # LEDS
 * These are used as replacement for buzzers.
 # SUBSYSTEM & OTHERS
-Motor Driver Unit:
+# Motor Driver Unit:
 Helps in driving the motor for our movement of object by providing required power for them(we use motor driver L293).
+# FLOWCHART
+![Untitled Diagram1 drawio](https://user-images.githubusercontent.com/46949062/155834707-79c976ce-5401-4ecb-8c7f-b3fedef1f27f.png)
 
