@@ -41,4 +41,7 @@ Helps in driving the motor for our movement of object by providing required powe
 ![Untitled Diagram1 drawio](https://user-images.githubusercontent.com/46949062/155834707-79c976ce-5401-4ecb-8c7f-b3fedef1f27f.png)
 # HIGH LEVEL USE CASE DIAGRAM
 ![Untitled Diagram3 drawio](https://user-images.githubusercontent.com/46949062/155835169-39f386f7-a5a9-4217-852b-fa01eff543f3.png)
+# LOW LEVEL USE CASE DIAGRAM
+![Untitled Diagram4 drawio](https://user-images.githubusercontent.com/46949062/155836195-35e158fe-26be-4d4c-ae19-e5d1d7051f9b.png)
+
 
