@@ -90,5 +90,5 @@ make a securecount over a large number of objects.
 * The  system is  designed to  use at  places like  laboratories  or classrooms where the intensity of crowd is intermediate. 
 * The system  can  be  enhanced  by installing  industrial  IR  sensors which have better sensitivity at detecting objects at sufficient
 * The data can be sent to  cloud and store it for future use. 
-* The data can also be monitored live for security purposes and can be used for further IoT applications.
+* The data can also be monitored live for security purposes and can be used for further IOT applications.
 
