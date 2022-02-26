@@ -34,3 +34,7 @@ Helps in movement of objects towards sensor.
 * The KY-032 Dual Axis Joystick module uses a uses a biaxial potentiometer to control the X and Y axis. When pushed down, it activates a switch. Based on the PS2 controller's joystick, it's used to control a wide range of projects from RC vehicles to color LEDs.
 # LEDS
 * These are used as replacement for buzzers.
+# SUBSYSTEM & OTHERS
+Motor Driver Unit:
+Helps in driving the motor for our movement of object by providing required power for them(we use motor driver L293).
+
