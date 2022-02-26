@@ -41,7 +41,7 @@ sensor , the counter is incremented by one and the total number of objects
 present in the store  is displayed on LCD.Microcontroller is used here to
 make a securecount over a large number of objects.
 # High level requirements
-| id | Description| Category|
-| ------------- | ------------- |----------|
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| id | Description|
+| ------------- | ------------- |
+| 01 | Systemshould be specified toards counting the objects   |
+| 02 | #Push buttons are needded to use for set or reset  |
