@@ -23,6 +23,26 @@
    Servos are mainly used on angular or linear position and for specific velocity, and acceleration.
    It is used to open and close the valves to cotrol the wastage of water and based of disatnce value it rotates either 180 degree or 90.
    ![servo](https://user-images.githubusercontent.com/46949062/157128233-0a9aafaa-06d2-4382-86f3-50b6e096b432.jpg)
+   
+  # 1.4 MICROCONTROLLER AND MEMORY
+  
+  # Arduino UNO
+ * Arduino UNO has the micro-controller ATmega328 embedded in it. It has 14 digital I/O pins out of which 6 provide
+   PWR output. It is an open-source and provides prototype platform. It also has a 16MHX crystal oscillator attached
+   to it. In addition to the above features, it also has an USB connection, a power jack, an ICSP, header and reset
+   button.It has everything to support a micro-controller. It can simply be connected to a computer using an USB cable or
+   power it with an AC or a DC adapter or a battery.
+  # EEPROM
+   Here this is actually inside the microcontroller
+  # delay
+  These functions are used for smooth goingof project helps every functions to perform their task.
+  # MicroController:
+  *  This is the main component which controls all the above mentioned part or thins of our embedded system.This interfaces motor and LCD and controlls the sensor,light and          voltage depending on the value we pressed on potentiometer.
+  # 1.5 SUBSYSTEM & OTHERS
+  # Led
+  * Light-emitting diode (LED) is a widely used standard source of light in electrical equipment. It has a wide range of applications ranging  
+   from your mobile phone to large advertising billboards. They mostly find applications in devices that show the time and display different types of data.
+  * LEDs allow the current to flow in the forward direction and blocks the current in the reverse direction.Here, 2 leds are used for confermation of opening and closing of         valve.
 
    
 
