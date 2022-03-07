@@ -1,5 +1,7 @@
-# BLOCK DIAGRAM AND EXPLANATION 
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/46949062/155833725-38589838-3bc9-41f6-8b37-7d44bd5089d2.png)
+# 1 BLOCK DIAGRAM AND EXPLANATION 
+# 1.1 BLOCK DIAGRAM
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/46949062/157125453-1cbbaa33-7693-41b3-afd9-f1483b83aefa.png)
+
 # ARDUINO
 * It is heart of this project.
 Arduino is simply an open hardware development board used by tinkerers, software
