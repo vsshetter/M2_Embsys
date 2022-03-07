@@ -1,5 +1,5 @@
-# WATER LEVEL INDICATOR
-# Abstract
+# 1 WATER LEVEL INDICATOR
+# 1.1 Abstract
 * We live in a world which is moving at such a fast pace that everything if automated will help us to keep our lives
 going. The project on water level Indicator will help us to know when the water in our tanks is either full or empty
 and automatically switch on and off the pump as and when necessary.
