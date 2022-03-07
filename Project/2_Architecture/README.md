@@ -14,10 +14,16 @@
   frequency of 40 KHz and accuracy is nearest to 0.3 cm.
   
  # 1.3 ACTUATORS
-*  LCD Display:
+*  LCD display
    Baseed on the value taken by by sensor it displays the empty sapce in the tank and also indicates the necessery actions .
    LCDs allowed displays to be much thinner than cathode ray tube (CRT) technology. LCDs consume much less power than LED and gas-display displays because they work on the          principle of blocking light rather than emitting it.
- * Servo motor
+   
+ * Servo motor 
+   Servo motors or “servos”, as they are known, are electronic devices and rotary or linear actuators that rotate and push parts of a machine with precision.
+   Servos are mainly used on angular or linear position and for specific velocity, and acceleration.
+   It is used to open and close the valves to cotrol the wastage of water and based of disatnce value it rotates either 180 degree or 90.
+   ![servo](https://user-images.githubusercontent.com/46949062/157128233-0a9aafaa-06d2-4382-86f3-50b6e096b432.jpg)
+
    
 
   
