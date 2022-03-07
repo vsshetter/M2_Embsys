@@ -43,6 +43,17 @@
   * Light-emitting diode (LED) is a widely used standard source of light in electrical equipment. It has a wide range of applications ranging  
    from your mobile phone to large advertising billboards. They mostly find applications in devices that show the time and display different types of data.
   * LEDs allow the current to flow in the forward direction and blocks the current in the reverse direction.Here, 2 leds are used for confermation of opening and closing of         valve.
+  # Resistors
+  * A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element.
+    In electronic circuits, resistors are used to reduce current flow, adjust signal levels, divide voltages, bias active elements, and  
+    terminate transmission lines, among other uses.Resistors are common elements of electrical networks and electronic circuits and are 
+    ubiquitous in electronic equipment.Practical resistors as discrete components can be composed of various compounds and forms.
+    Resistors are also implemented within integrated circuits.Here we used 100 ohm 2 resistors that connected to 2 leds.
+  # Voltmeter
+  * voltmeter, instrument that measures voltages of either direct or alternating electric current on a scale usually graduated in volts, millivolts (0.001 volt), or kilovolts       (1,000 volts). Many voltmeters are digital, giving readings as numerical displays.Here,voltmeter is used to change the voltage levels.
+  # Potentiometer
+  * A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the         wiper, it acts as a variable resistor or rheostat.Here,they are used to measure displacement in any direction. Linear potentiometers linearly measure displacement and rotary     potentiometers measure rotational displacement.
+
 
    
 
