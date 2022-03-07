@@ -1,14 +1,22 @@
 # 1 BLOCK DIAGRAM AND EXPLANATION 
 # 1.1 BLOCK DIAGRAM
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/46949062/157125453-1cbbaa33-7693-41b3-afd9-f1483b83aefa.png)
-# 1.2 SENSORS
-# Ultrasonic sensor (HC-SR04)
+# 1.2 SENSOR
+# Ultrasonic Sensor (HC-SR04)
+![image](https://user-images.githubusercontent.com/46949062/157126698-ceb4f1e4-0ce8-4ed2-bf35-baa4fe514f7f.png)
+
 * It is basically a distance sensor and is used for detecting the distance using SONAR method. It has two ultrasonic
   transmitters namely the receiver and the control circuit. The transmitter emits a high frequency ultrasonic sound
   wave which bounces off from any solid object and receiver receives it as an echo. 
 * The echo is then processed by the control circuit to calculate the time and the difference between the transmitter and receiver signal.
   This time can subsequently be used to measure the measure the distance between the sensor and the reflecting object.It has an ultrasonic
   frequency of 40 KHz and accuracy is nearest to 0.3 cm.
+  
+ # 1.3 ACTUATORS
+*  LCD Display:
+Displays each and every value we enter in our keypad along with Temperature.
+
+  
 
 # ARDUINO
 * It is heart of this project.
