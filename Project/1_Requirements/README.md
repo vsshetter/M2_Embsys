@@ -1,14 +1,11 @@
 # WATER LEVEL INDICATOR
 # Abstract
-This Project is based on the  Digital Object Counter system using Arduino
-Nano, Ky-023 sensor,LCD dispaly,7 segment display, push button. Object  
-sensor and counteris a reliable circuit whichovertakes the role of counting 
-number of objects  in thestore. When any object is paced when it passes the 
-sensor , the counter is incremented by one and the total number of objects 
-present in the store  is displayed on LCD.Microcontroller is used here to
-make a securecount over a large number of objects.It gets the signals from 
-the sensors and these signals are stored in ROM. Main application is counting 
-objects or merchandise in industrial sector.
+We live in a world which is moving at such a fast pace that everything if automated will help us to keep our lives
+going. The project on water level Indicator will help us to know when the water in our tanks is either full or empty
+and automatically switch on and off the pump as and when necessary. By using the basic principle of ultrasonic
+sensors, i.e the ECHO method, we calculate the time of the ultrasonic waves travelling to and fro and after a few
+calculations the answer obtained will be the water level in the tank. By using this concept, the water pump is
+switched on or off automatically when the water level falls below a certain level. 
 
 # REQUIREMENTS
 The main goal of the proect is in the industry to reduce the man power for counting the objects.
