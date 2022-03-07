@@ -3,6 +3,7 @@
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/46949062/157125453-1cbbaa33-7693-41b3-afd9-f1483b83aefa.png)
 # 1.2 SENSOR
 # Ultrasonic Sensor (HC-SR04)
+# working
 ![image](https://user-images.githubusercontent.com/46949062/157126698-ceb4f1e4-0ce8-4ed2-bf35-baa4fe514f7f.png)
 
 * It is basically a distance sensor and is used for detecting the distance using SONAR method. It has two ultrasonic
@@ -14,7 +15,10 @@
   
  # 1.3 ACTUATORS
 *  LCD Display:
-Displays each and every value we enter in our keypad along with Temperature.
+   Baseed on the value taken by by sensor it displays the empty sapce in the tank and also indicates the necessery actions .
+   LCDs allowed displays to be much thinner than cathode ray tube (CRT) technology. LCDs consume much less power than LED and gas-display displays because they work on the          principle of blocking light rather than emitting it.
+ * Servo motor
+   
 
   
 
