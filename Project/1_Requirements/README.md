@@ -35,33 +35,33 @@ and coming back is noted and after few calculations we can estimate the level of
 
 
 # High level requirements
-| id | High level requirements |
+| Id | High level requirements |
 | ------------- | ------------- |
-| HL1 | System should be specified towards counting the objects   |
-| HL2 | Push buttons are needded to use for set or reset  |
-| HL3 | The controller and sensor must be in synchronization  | 
-| HL4 | System shall use 7 segment to dispaly the count  |
+| HL1 | System should control motor,LCD display,sensor using ARDUINO controller   |
+| HL2 | There shall be a LCD to dispaly the current state   |
+| HL3 | LED is used for open and close valve indication  |
+| HL4 | Ultrasonic sensor used to measure the distance  |
 
 # Low level requirements
 | Id | Low level requirements for HL1 |
 | ---------------| ---------------------|
-| LLR 1.1 | Prompting the user to set the counter limit and count limit reach notification |              
-| LLR 1.2 | Displaying the current count and showing the last count value etc |  
+| LLR 1.1 | According to pin configuration LCD,motor,sensor are controlled by ARDUINO  |
+| LLR 1.2 | As potentiometer valuve changes the valuve in LCD display changes and with help of ARDUINO servo motor direction changes |
 
 | Id | Low level requirements for HL2 |
 | ---------------| ---------------------|
-| LLR 2.1 | Set and reset buttons are used setting the count limit | 
-| LLR 2.2 | Up and down push buttons are used incresaing or decreasing                                                                                                                       value repectively | 
+| LLR 2.1 | LCD is used to dispaly the remaining sapce in the tank  | 
+| LLR 2.2 | LCD also displays the message for close and open valves | 
 
 | Id | Low level requirements for HL3|                                                                   
 | ---------------| ---------------------|                                                                 
-| LLR 3.1 |  Object is paced when it passes the sensor , the counter is incremented by one count |                                                                               
-| LLR 3.2 | Controller  gets the signals from the sensors and these signals are stored in ROM |
+| LLR 3.1 |  LEDS and servo motors are synchronized |                                                                               
+| LLR 3.2 | Voltmeter is used for  varying vlotage at initial zero volts one LED IS OFF and other one is ON  |
 
 | Id |  Low level requirements for HL4 | 
 | ---------------| ---------------------|
-| LLR 4.1 | Display is driven by MAX 7219 IC |
-| LLR 4.2 | Output should be error less |     
+| LLR 4.1 | when distance is < = 100 close the valve(because only 100 cm space is left in tank).|
+| LLR 4.2 | Whatever the distance is dispalyed by lcd with the help of Ultrasonic is the amount of space left in the tank |     
 
 # SWOT ANALYSIS
 # STRENGHT 
