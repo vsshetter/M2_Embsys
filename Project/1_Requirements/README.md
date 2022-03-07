@@ -63,26 +63,20 @@ and coming back is noted and after few calculations we can estimate the level of
 | LLR 4.1 | when distance is < = 100 close the valve(because only 100 cm space is left in tank).|
 | LLR 4.2 | Whatever the distance is dispalyed by lcd with the help of Ultrasonic is the amount of space left in the tank |     
 
-# SWOT ANALYSIS
-# STRENGHT 
-* Less human interaction .
-* count limit is used by push buttons.
-* easy to use.
-# WEAKNESS
-* Not connected to internet.
-* Unable to monitor through the phone.
-* Deadlines.
-# OPPURTUNITIES
-* Less cost.
-* It consumes less power.
-* Scope of this system is very huge in human automation.
-# THREATS
-* System won't work if power is not there.
-* Best applications are avalible.
-* Mainatinance.
-# APPLICATIONS
-* The  system is  designed to  use at  places like  laboratories  or classrooms where the intensity of crowd is intermediate. 
-* The system  can  be  enhanced  by instaling  industrial  IR  sensors which have better sensitivity at detecting objects at sufficient
-* The data can be sent to  cloud and store it for future use. 
-* The data can also be monitored live for security purposes and can be used for further IOT applications.
+# ADVANTAGES
+* Power Saver. ...
+* Money Saver. ...
+* Automatic. ...
+* Water Maximization. ...
+* Reliable Electronic Design. ...
+* New Control Minimize Fouling & Deterioration. ...
+* Easy Installation with LED Monitoring.
 
+# DISADVANTAGES
+* Water level controls need to be replaced every 3 years.
+* The rust, foul and deteriorate.
+* Electronics are usually built separately.
+* More difficult installation.
+* Most float switches are outdated.
+* No LED indicator lights.
+* No Warranty or Guarantee.
