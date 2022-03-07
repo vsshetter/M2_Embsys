@@ -7,9 +7,12 @@ and automatically switch on and off the pump as and when necessary.
 travelling to and fro and after a few calculations the answer obtained will be the water level in the tank. By using
 this concept, the water pump is switched on or off automatically when the water level falls below a certain level. 
 
-# REQUIREMENTS
-The main goal of the proect is in the industry to reduce the man power for counting the objects.
-And it is useful for inport export of objects,used in gatherings family occasions.
+# 1.2 Identifying Features
+* It should be power saver.
+  * Money saver.
+  * Automatic.
+  * Easy Insatllation.
+* Should monitor the level of water in the tank and simultaneously switches on the water pump whenever the water level goes low in the water tank.
 # Features
 * Easily counts the number of objets.
 * Time taken is less.
