@@ -30,6 +30,9 @@ and coming back is noted and after few calculations we can estimate the level of
 
 # 1.4 5W'S & 1H
 ![5W1H Model](https://user-images.githubusercontent.com/46949062/157101262-d6f24fa6-9246-49b4-9edf-a6635292700a.jpg)
+# 1.5 SWOT ANALYSIS
+![SWOT](https://user-images.githubusercontent.com/46949062/157114774-c6c12830-b58b-43d0-a40e-2cc0bdce5666.jpg)
+
 
 # High level requirements
 | id | High level requirements |
