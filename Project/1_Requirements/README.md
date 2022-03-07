@@ -1,11 +1,11 @@
 # WATER LEVEL INDICATOR
 # Abstract
-We live in a world which is moving at such a fast pace that everything if automated will help us to keep our lives
+* We live in a world which is moving at such a fast pace that everything if automated will help us to keep our lives
 going. The project on water level Indicator will help us to know when the water in our tanks is either full or empty
-and automatically switch on and off the pump as and when necessary. By using the basic principle of ultrasonic
-sensors, i.e the ECHO method, we calculate the time of the ultrasonic waves travelling to and fro and after a few
-calculations the answer obtained will be the water level in the tank. By using this concept, the water pump is
-switched on or off automatically when the water level falls below a certain level. 
+and automatically switch on and off the pump as and when necessary.
+* By using the basic principle of ultrasonicsensors, i.e the ECHO method, we calculate the time of the ultrasonic waves 
+travelling to and fro and after a few calculations the answer obtained will be the water level in the tank. By using
+this concept, the water pump is switched on or off automatically when the water level falls below a certain level. 
 
 # REQUIREMENTS
 The main goal of the proect is in the industry to reduce the man power for counting the objects.
