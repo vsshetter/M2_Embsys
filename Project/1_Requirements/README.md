@@ -1,4 +1,4 @@
-# WATER LEVEL CONTROLLER
+# WATER LEVEL INDICATOR
 # Abstract
 This Project is based on the  Digital Object Counter system using Arduino
 Nano, Ky-023 sensor,LCD dispaly,7 segment display, push button. Object  
