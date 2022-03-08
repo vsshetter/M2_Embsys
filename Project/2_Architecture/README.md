@@ -54,7 +54,14 @@
   # Potentiometer
   * A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the         wiper, it acts as a variable resistor or rheostat.Here,they are used to measure displacement in any direction. Linear potentiometers linearly measure displacement and rotary     potentiometers measure rotational displacement.
   # 2 Architecture
-  # 2.1 High level flow chart  behavioural diagram
+  # 2.1.1 High level flow chart  behavioural diagram
   ![Untitled Diagram4 drawio (1)](https://user-images.githubusercontent.com/46949062/157137087-9b6bd41b-eb71-4bd2-999a-15d4bd60d0ad.png)
-  # 2.2 Low level flow chart  behavioural diagram
+  # 2.1.2 Low level flow chart  behavioural diagram
   ![Untitled Diagram5 drawio](https://user-images.githubusercontent.com/46949062/157141458-ed3319e0-5024-4efb-89fa-9d09d66703e7.png)
+  # 2.2 Structural Diagram
+  # 2.2.1 High Level UML Use Case Structural Diagram
+  ![HIGHONE drawio](https://user-images.githubusercontent.com/46949062/157172243-a901afa1-816a-4794-bb35-c9c30179be2e.png)
+
+  
+  
+  
