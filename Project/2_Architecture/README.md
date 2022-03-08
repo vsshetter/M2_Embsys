@@ -61,6 +61,8 @@
   # 2.2 Structural Diagram
   # 2.2.1 High Level UML Use Case Structural Diagram
   ![HIGHONE drawio](https://user-images.githubusercontent.com/46949062/157172243-a901afa1-816a-4794-bb35-c9c30179be2e.png)
+ # 2.2.2 Low Level UML Use Case Structural Diagram
+![LOW LEVEL NEW drawio](https://user-images.githubusercontent.com/46949062/157187535-90f2d9ef-c4e3-49b6-8006-e1da3d53eb70.png)
 
   
   
