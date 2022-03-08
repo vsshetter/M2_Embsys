@@ -3,7 +3,7 @@
 * We live in a world which is moving at such a fast pace that everything if automated will help us to keep our lives
 going. The project on water level Indicator will help us to know when the water in our tanks is either full or empty
 and automatically switch on and off the pump as and when necessary.
-* By using the basic principle of ultrasonicsensors, i.e the ECHO method, we calculate the time of the ultrasonic waves 
+* By using the basic principle of ultrasonic sensors, i.e the ECHO method, we calculate the time of the ultrasonic waves 
 travelling to and fro and after a few calculations the answer obtained will be the water level in the tank. By using
 this concept, the water pump is switched on or off automatically when the water level falls below a certain level. 
 
@@ -21,7 +21,7 @@ this concept, the water pump is switched on or off automatically when the water 
 * In relation with the current framework with so much work and too less time to spare, it is very difficult to keep in
 touch with the water level in the tanks. Water is essential in every hour of our lives. Hardly anyone keeps in track of
 the level of water in the overhead tanks. The objective of the project is to measure the level of water in the tank and
-notify the user about the water level through an SMS alert.
+notify the user about the water level through LCD display.
 * This not only helps to keep the tank full but also making it more convenient for our day-to-day chores and also avoiding 
 water wastage. In this project, the water is being measured by using ultrasonic sensors. Initially, the tank is considered 
 to be empty. When the sound waves are transmitted in the environment, they are reflected back as ECHO. This same concept 
@@ -34,29 +34,29 @@ and coming back is noted and after few calculations we can estimate the level of
 ![SWOT](https://user-images.githubusercontent.com/46949062/157114774-c6c12830-b58b-43d0-a40e-2cc0bdce5666.jpg)
 
 
-# High level requirements
+# 1.6 High level requirements
 | Id | High level requirements |
 | ------------- | ------------- |
 | HL1 | System should control motor,LCD display,sensor using ARDUINO controller   |
 | HL2 | There shall be a LCD to dispaly the current state   |
 | HL3 | LED is used for open and close valve indication  |
-| HL4 | Ultrasonic sensor used to measure the distance  |
+| HL4 | Ultrasonic sensor used to measuring the distance  |
 
-# Low level requirements
+# 1.7 Low level requirements
 | Id | Low level requirements for HL1 |
 | ---------------| ---------------------|
 | LLR 1.1 | According to pin configuration LCD,motor,sensor are controlled by ARDUINO  |
-| LLR 1.2 | As potentiometer valuve changes the valuve in LCD display changes and with help of ARDUINO servo motor direction changes |
+| LLR 1.2 | As potentiometer value changes the value in LCD display changes and with help of ARDUINO servo motor direction changes |
 
 | Id | Low level requirements for HL2 |
 | ---------------| ---------------------|
-| LLR 2.1 | LCD is used to dispaly the remaining sapce in the tank  | 
-| LLR 2.2 | LCD also displays the message for close and open valves | 
+| LLR 2.1 | LCD is used to display the remaining space in the tank  | 
+| LLR 2.2 | LCD also displays the message for close and opening of valves | 
 
 | Id | Low level requirements for HL3|                                                                   
 | ---------------| ---------------------|                                                                 
 | LLR 3.1 |  LEDS and servo motors are synchronized |                                                                               
-| LLR 3.2 | Voltmeter is used for  varying vlotage at initial zero volts one LED IS OFF and other one is ON  |
+| LLR 3.2 | Potentiometer is used for  varying vlotage ,at initial zero volts one LED IS OFF and other one is ON  |
 
 | Id |  Low level requirements for HL4 | 
 | ---------------| ---------------------|
