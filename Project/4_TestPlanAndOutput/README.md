@@ -6,7 +6,7 @@
 | ------------------------- | ---------------------- | --------------------- | -------------------- | ----------------------| ----------------- |
 | 01   |  Potentiometer(voltage)   | 250mv(convetring volts to cm) | LCD should give the exact voltage in display as 24 v  | LCD shows the exact value | PASSED|
 | 02  | LED  | 250 mv | LED 1 should turn On  | LED 1 is turned ON  | PASSED |
-| 03 | LCD | 250 mv | LCD needs to display as Close the tap | LCD displays the same way | PASSED |
+| 03 | LCD | 250 mv | LCD needs to display as OPEN the tap | LCD displays the same way | PASSED |
 | 04 | Servo motor | 250 mv | Needs to rotate in 180 degree antoclockwise | Servo motor rotates in the same way | PASSED |
 | 05 | Maximum input value | 300mv | LCD needs to display as tank is full | LCD displays in the same manner | PASSED |
 
