@@ -1,4 +1,7 @@
 ## WATER LEVEL INDICATOR USING ARDUINO-UNO,SERVO MOTOR AND ULTRASONIC SENSOR(HC-SR04).
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/53a030f7394b4d74a85795aac34c6d10)](https://app.codacy.com/gh/vsshetter/M2_Embsys?utm_source=github.com&utm_medium=referral&utm_content=vsshetter/M2_Embsys&utm_campaign=Badge_Grade_Settings)
+
 # Folder Structure Description
 | Folder Titile  | Description |
 | ------------- | ------------- |
