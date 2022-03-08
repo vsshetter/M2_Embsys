@@ -65,6 +65,11 @@
  # 2.2.2 Low Level UML Use Case Structural Diagram
 ![LOW LEVEL NEW drawio](https://user-images.githubusercontent.com/46949062/157187535-90f2d9ef-c4e3-49b6-8006-e1da3d53eb70.png)
 
-  
-  
+  # BEST METHODS FOLLOWED
+  * The best of the best Diagrams are considered
+    from this Diagrams code is made
+  * low level and high level both are implimented
+  * Exact Mapping of code to avoid confusions
+  * Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
+  * Followed the exact symbols to make the understanding easier
   
