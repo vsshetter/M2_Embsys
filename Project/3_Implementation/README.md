@@ -21,3 +21,8 @@ This is software based project so in order to calculate distance here we are usi
 * It displays the distance value at every itration
 * Displays the status of the valve
 * Here,it displays "CLOSE THE VALVE".
+# STEP 5
+* When distance > 100 
+* Exactly opposite process happens.
+# SIMULATION PIC IS ATTACHED FOR THE CASE
+![Screenshot (57)](https://user-images.githubusercontent.com/46949062/157214560-f9f81882-bb9b-4216-8a94-3ce84f693ec1.png)
