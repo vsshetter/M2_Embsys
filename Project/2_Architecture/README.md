@@ -23,6 +23,7 @@
    Servo motors or “servos”, as they are known, are electronic devices and rotary or linear actuators that rotate and push parts of a machine with precision.
    Servos are mainly used on angular or linear position and for specific velocity, and acceleration.
    It is used to open and close the valves to cotrol the wastage of water and based of disatnce value it rotates either 180 degree or 90.
+ 
    ![servo](https://user-images.githubusercontent.com/46949062/157128233-0a9aafaa-06d2-4382-86f3-50b6e096b432.jpg)
    
   # 3.3.3 MICROCONTROLLER AND MEMORY
