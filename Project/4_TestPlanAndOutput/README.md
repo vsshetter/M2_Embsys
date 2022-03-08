@@ -4,5 +4,5 @@
 
 | Test Id  | discription | Input | Expected Output | Actual Output | Passed or Not |
 | ------------------------- | ---------------------- | --------------------- | -------------------- | ----------------------| ----------------- |
-| Content Cell  | Content Cell  |
+| 01   |  Potentiometr(voltage)   | 250mv(convetring volts to cm) | LCD should give the exact voltage in display as 24 v  | LCD shows the exact value | PASSED|
 | Content Cell  | Content Cell  |
