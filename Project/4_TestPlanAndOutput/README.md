@@ -1,5 +1,5 @@
-# Test plan and output
-# HIGH LEVEL TEST PLAN
+# 5 Test plan and output
+# 5.1 HIGH LEVEL TEST PLAN
 # Test plan is created and verified on both manual and automated manner
 
 | Test Id  | Discription | Input | Expected Output | Actual Output | Passed or Not |
@@ -17,7 +17,7 @@
 | 03 | Motor control | Data from Micro controller( shall sends values from sig port to controller) | Data from Micro controller( shall sends values from sig port to controller) |       Data from Micro controller( shall sends values from sig port to controller) | PASSED |
 | 04 | Sensor control | Data from senor is controlled by controller and it is displayed by LCD | Data from senor is controlled by controller and it is displayed by LCD | Data from      senor is controlled by controller and it is displayed by LCD | PASSED |
 
-# LOW LEVEL TEST PLAN
+# 5.2 LOW LEVEL TEST PLAN
 | Test Id(FOR LCD)  | Discription | Input | Expected Output | Actual Output | Passed or Not |
 | ------------------------- | ---------------------- | --------------------- | -------------------- | ----------------------| ----------------- |
 | 01 | Checks for LCD | 25 mv |  25 cm |  ~=25cm | PASSED |
