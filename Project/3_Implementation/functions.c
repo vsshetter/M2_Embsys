@@ -38,4 +38,4 @@ void left() {
   lcd.setCursor(1,1);
   lcd.print(" open tap ");
 
- 
+}
