@@ -20,8 +20,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # CODIGA 
 [![Codiga Badge](https://api.codiga.io/project/31780/score/svg)](https://app.codiga.io/public/project/31780/M2_Embsys/dashboard)
-
-
 [![Codiga Badge](https://api.codiga.io/project/31780/status/svg)](https://app.codiga.io/public/project/31780/M2_Embsys/dashboard)
 
 
