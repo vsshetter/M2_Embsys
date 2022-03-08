@@ -1,6 +1,7 @@
 # 1 BLOCK DIAGRAM AND EXPLANATION 
 # 1.1 BLOCK DIAGRAM
-![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/46949062/157125453-1cbbaa33-7693-41b3-afd9-f1483b83aefa.png)
+![BLOCKDIANEW drawio](https://user-images.githubusercontent.com/46949062/157245731-787f0e78-cded-4c87-b3a8-ae0cac3f7609.png)
+
 # 1.2 SENSOR
 # Ultrasonic Sensor (HC-SR04)
 # working
