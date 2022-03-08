@@ -12,4 +12,3 @@ void loop()
   lcd.print(jump);                     // print the jump value in lcd
   lcd.print("cm");                // print in centimeter
   delay(1000);              // delay of 1 sec
-}
