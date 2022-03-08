@@ -12,3 +12,5 @@
 
 ## SIMULATION 
 ![Screenshot (52)](https://user-images.githubusercontent.com/46949062/157088954-67d7f11b-2b61-4c8b-99dc-a31bcfefb5e9.png)
+# CODACY
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/af4707a1457f4d029e65b7817a2025df)](https://www.codacy.com/gh/vsshetter/M2_Embsys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vsshetter/M2_Embsys&amp;utm_campaign=Badge_Grade)
