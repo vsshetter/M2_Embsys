@@ -33,8 +33,10 @@ and coming back is noted and after few calculations we can estimate the level of
 # 1.5 SWOT ANALYSIS
 ![SWOT](https://user-images.githubusercontent.com/46949062/157114774-c6c12830-b58b-43d0-a40e-2cc0bdce5666.jpg)
 
+# 2 Requirements
 
-# 1.6 High level requirements
+# 2.1 High level requirements
+
 | Id | High level requirements |
 | ------------- | ------------- |
 | HL1 | System should control motor,LCD display,sensor using ARDUINO controller   |
@@ -42,7 +44,7 @@ and coming back is noted and after few calculations we can estimate the level of
 | HL3 | LED is used for open and close valve indication  |
 | HL4 | Ultrasonic sensor used to measuring the distance  |
 
-# 1.7 Low level requirements
+# 2.2 Low level requirements
 | Id | Low level requirements for HL1 |
 | ---------------| ---------------------|
 | LLR 1.1 | According to pin configuration LCD,motor,sensor are controlled by ARDUINO  |
