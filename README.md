@@ -11,4 +11,5 @@
 | 7_Applications | Applications of the project |
 
 ## SIMULATION 
-![Screenshot (52)](https://user-images.githubusercontent.com/46949062/157088954-67d7f11b-2b61-4c8b-99dc-a31bcfefb5e9.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/46949062/157168812-9f96c5b8-9dd2-42ae-825b-cf7c51c7b221.png)
+
