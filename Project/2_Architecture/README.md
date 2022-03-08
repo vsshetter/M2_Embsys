@@ -59,7 +59,8 @@
   ![highlevelgit](https://user-images.githubusercontent.com/46949062/157250601-1ca769c8-1323-49f2-b4b1-dce540f11ba2.jpg)
 
   # 2.1.2 Low level flow chart  behavioural diagram
-  ![Untitled Diagram5 drawio](https://user-images.githubusercontent.com/46949062/157141458-ed3319e0-5024-4efb-89fa-9d09d66703e7.png)
+ ![FLOW2 drawio](https://user-images.githubusercontent.com/46949062/157255431-8cf24c8d-6123-4c40-a2e1-afa22cc62f0b.jpg)
+
   # 2.2 Structural Diagram
   # 2.2.1 High Level UML Use Case Structural Diagram
    ![highlevelgit](https://user-images.githubusercontent.com/46949062/157250185-a6dd4589-fe5f-4c6e-8a91-cb622b618b2c.png)
