@@ -61,7 +61,8 @@
   ![Untitled Diagram5 drawio](https://user-images.githubusercontent.com/46949062/157141458-ed3319e0-5024-4efb-89fa-9d09d66703e7.png)
   # 2.2 Structural Diagram
   # 2.2.1 High Level UML Use Case Structural Diagram
-  ![HIGHNEWLA drawio](https://user-images.githubusercontent.com/46949062/157190981-9163597e-2818-4dba-9bc4-a7b653e4bd27.png)
+   ![highlevelgit](https://user-images.githubusercontent.com/46949062/157250185-a6dd4589-fe5f-4c6e-8a91-cb622b618b2c.png)
+
 
  # 2.2.2 Low Level UML Use Case Structural Diagram
 ![LOW LEVEL NEW drawio](https://user-images.githubusercontent.com/46949062/157187535-90f2d9ef-c4e3-49b6-8006-e1da3d53eb70.png)
