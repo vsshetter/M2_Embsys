@@ -1,4 +1,4 @@
-# Applications of Water level indicator
+# 6 Applications of Water level indicator
 * Can be used in water tanks to control water levels
 * Automatically turn ON/OFF pumps
 * Can be used in factories, commercial complexes, apartments, home,
