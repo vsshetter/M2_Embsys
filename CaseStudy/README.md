@@ -49,7 +49,7 @@ Implemented during intial stages of vehicle manufacturing.
 * Not connected to internet.
 * Needs to alter speed limit and to place transmitter unit at sign board
 * Unable to monitor through the phone.
-# Oppurtunities
+# Opportunities
 * Scope of this project is huge in automotive industry.
 * Less cost.
 * System consumes less power.
